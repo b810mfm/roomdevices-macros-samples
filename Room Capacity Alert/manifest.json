@@ -18,7 +18,7 @@
         "id": "maxPeople",
         "name": "Max people",
         "info": "The max number of people allowed in the room. For testing, set to 0",
-        "type": "number",
+        "type": "12",
         "default": 1,
         "domain": "RoomCapacity",
         "required": true
